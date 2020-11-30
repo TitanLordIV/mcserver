@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "minecraftId": "item.mcdisc.1",
+        "url": "https://www.youtube.com/watch?v=5ZYgIrqELFw",
+        "name": "All-Star",
+        "artist": "Smash Mouth",
+        "soundId": "sound.mcdisc.1"
+    },
+    {
+        "id": 2,
+        "minecraftId": "item.mcdisc.2",
+        "url": "https://www.youtube.com/watch?v=nU21rCWkuJw",
+        "name": "Cruel Angel's Thesis",
+        "artist": "Neon Genesis Evangelion",
+        "soundId": "sound.mcdisc.2"
+    },
+    {
+        "id": 3,
+        "minecraftId": "item.mcdisc.3",
+        "url": "https://www.youtube.com/watch?v=sA7qYWH-UvU",
+        "name": "Shingeki no Kyojin",
+        "artist": "Attack on Titan",
+        "soundId": "sound.mcdisc.3"
+    },
+    {
+        "id": 4,
+        "minecraftId": "item.mcdisc.4",
+        "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+        "name": "Never Gonna Give You Up",
+        "artist": "Rick Astley",
+        "soundId": "sound.mcdisc.4"
+    },
+    {
+        "id": 5,
+        "minecraftId": "item.mcdisc.5",
+        "url": "https://www.youtube.com/watch?v=xubrxJwLxaI",
+        "name": "In the End",
+        "artist": "Linkin Park",
+        "soundId": "sound.mcdisc.5"
+    },
+    {
+        "id": 6,
+        "minecraftId": "item.mcdisc.6",
+        "url": "https://www.youtube.com/watch?v=wXcdYBh3hgg",
+        "name": "Wake me up Inside",
+        "artist": "Evanescence",
+        "soundId": "sound.mcdisc.6"
+    },
+    {
+        "id": 7,
+        "minecraftId": "item.mcdisc.7",
+        "url": "https://www.youtube.com/watch?v=ArrqUWKvq7g",
+        "name": "Disillusion in a Discordant System",
+        "artist": "Acrania",
+        "soundId": "sound.mcdisc.7"
+    },
+    {
+        "id": 8,
+        "minecraftId": "item.mcdisc.8",
+        "url": "https://www.youtube.com/watch?v=lOo55jYJlV8",
+        "name": "Wiosna",
+        "artist": "Katawa Shoujo",
+        "soundId": "sound.mcdisc.8"
+    },
+    {
+        "id": 9,
+        "minecraftId": "item.mcdisc.9",
+        "url": "https://www.youtube.com/watch?v=atuFSv2bLa8",
+        "name": "Gas Gas Gas",
+        "artist": "Initial D",
+        "soundId": "sound.mcdisc.9"
+    }
+]
